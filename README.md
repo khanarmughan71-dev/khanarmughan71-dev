@@ -44,3 +44,9 @@ Collaborative CRM concept for small freelance teams to manage leads, tasks, and 
 **Tech:** React, Tailwind CSS (UI), Backend planned  
 **Status:** Concept / UI planning
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanarmughan71-dev&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanarmughan71-dev&layout=compact&theme=dark)
+
