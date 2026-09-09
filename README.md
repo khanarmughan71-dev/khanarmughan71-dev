@@ -118,9 +118,9 @@ experience using modern React-based development.
 
 ---
 
-### 02 — fleur-de-lys-services
+### 02 — FLEUR DE LYS SERVICES
 
-**A consultation website for a restaurant Designing.**
+**A consultation website for a restaurant catering services.**
 
 A clean, responsive website for restaurant consulation,
 using react, and tailwindcss for a better user experience
