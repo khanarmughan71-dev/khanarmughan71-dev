@@ -191,9 +191,9 @@ their projects.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khanarmughan71-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170">
+<img src="./profile/stats.svg" alt="GitHub Stats" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanarmughan71-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170">
+<img src="./profile/top-langs.svg" alt="Top Languages" height="170">
 
 </div>
 
