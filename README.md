@@ -1,9 +1,9 @@
 <div align="center">
 
-# ARMUGHAN KHAN
+# ARMUGHAN HASSAN KHAN
 
 ### Full-Stack Python Developer
-**Django • React • Next.js • Tailwind CSS**
+**Django • Flask • React • Next.js • Tailwind CSS**
 
 Building modern web applications with clean architecture,
 thoughtful interfaces, and real-world functionality.
@@ -118,26 +118,25 @@ experience using modern React-based development.
 
 ---
 
-### 02 — ARMUGHAN.DEV
+### 02 — fleur-de-lys-services
 
-**A personal portfolio built to showcase my work.**
+**A consultation website for a restaurant Designing.**
 
-A clean, responsive portfolio website designed to present
-projects, technical skills, and contact information in a
-professional way.
+A clean, responsive website for restaurant consulation,
+using react, and tailwindcss for a better user experience
 
 The project reflects my approach to building structured,
-maintainable Django applications with a focus on
+maintainable React applications with a focus on
 presentation and usability.
 
-**Stack:** Django • HTML • CSS • JavaScript
+**Stack:** React • Tailwindcss • JavaScript
 
 **Status:** In Progress
 
-<a href="https://armughankhan.pythonanywhere.com">
+<a href="https://fleur-de-lys-services.com">
   <img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
 </a>
-<a href="https://github.com/khanarmughan71-dev/armughan-dev-site">
+<a href="https://github.com/khanarmughan71-dev/fleur-de-lys">
   <img src="https://img.shields.io/badge/VIEW_SOURCE-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
 </a>
 
@@ -145,20 +144,20 @@ presentation and usability.
 
 ### 03 — MAYMARMOS
 
-**A CRM concept for small freelance teams.**
+**A small home kitchen website and order system**
 
-A collaborative product concept focused on lead management,
-task assignment, and work reporting.
+A well managed order system website, where user
+can easily make order track their order by their order number.
 
 The project explores how a simple, organized interface can
-support better team workflows and improve day-to-day
+support better user workflows and improve day-to-day
 productivity.
 
 **Stack:** React • Tailwind CSS
 
 **Status:** Concept / UI Planning
 
-<a href="http://maymarmos-website.vercel.app">
+<a href="http://maymarmos.com">
   <img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
 </a>
 <a href="https://github.com/khanarmughan71-dev/maymarmos-website">
@@ -167,22 +166,22 @@ productivity.
 
 ---
 
-### 04 — YOUR NEXT PROJECT
+### 04 — AXIORA DIGITAL
 
 **A new application currently in development.**
 
-Add your next project here with a short description
-of what it does, the problem it solves, and the
-technologies you're using.
+It's my personal agency where me and my team can showcase our projects, 
+That's how we can collaborate with other peoples also helping them with
+their projects.
 
-**Stack:** Django • React • Next.js • Tailwind CSS
+**Stack:** PostgreSQL • Next.js • Tailwind CSS • TailwindCSS
 
 **Status:** In Development
 
-<a href="#">
+<a href="https://axioradigitalagency.vercel.app">
   <img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
 </a>
-<a href="#">
+<a href="https://github.com/khanarmughan71-dev/axiora-digital">
   <img src="https://img.shields.io/badge/VIEW_SOURCE-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
 </a>
 
